@@ -1,5 +1,3 @@
-grin  this is tex color red
 
-
-rest 
+this is text color green 
 
