@@ -1,4 +1,4 @@
-grin  this is tex
+grin  this is tex color red
 
 
 rest 
